@@ -46,7 +46,7 @@ for i in range(START_ID, END_ID):
 
     # 提示当前到达的id(log)
     print('id: ' + str(i))
-
+    1438011
     # 提取豆瓣数据
     movie_parser.set_html_doc(r.text)
     movie = movie_parser.extract_movie_info()
