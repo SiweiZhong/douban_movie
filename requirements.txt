@@ -39,7 +39,6 @@ kiwisolver==1.0.1
 launchpadlib==1.10.4
 lazr.restfulclient==0.14.0
 lazr.uri==1.0.3
-lxml==3.6.4
 Mako==1.0.4
 MarkupSafe==0.23
 matplotlib==2.2.2
