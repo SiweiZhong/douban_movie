@@ -76,7 +76,7 @@ pytesseract==0.1.6
 python-dateutil==2.7.2
 pytz==2018.4
 pyxdg==0.25
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==17.0.0
 qtconsole==4.3.1
 redis==2.10.6
